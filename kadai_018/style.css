@@ -3,14 +3,13 @@
     background-color: #dcc9f4;
     margin: 20px auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .top-child {
     width: 20%;
     background-color: #ffd9df;
     padding: 0 auto;
-    margin-right: 5px;
     text-align: center;
 }
 
